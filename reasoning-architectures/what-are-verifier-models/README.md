@@ -55,3 +55,8 @@ Verifier Evaluates Candidates
 Scores / Ranks Responses
       ↓
 Best Answer Selected
+```
+
+
+
+🔗 Full article: [What Are Verifier Models?](https://reasoningsystems.org/reasoning-architectures/what-are-verifier-models/)

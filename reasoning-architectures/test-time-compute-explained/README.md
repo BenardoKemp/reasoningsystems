@@ -61,3 +61,8 @@ Evaluate / Compare Candidates
 Refine or Re-rank Outputs
       ↓
 Return Best Answer
+```
+
+
+
+🔗 Full article: [Test-Time Compute Explained](https://reasoningsystems.org/reasoning-architectures/test-time-compute-explained/)
