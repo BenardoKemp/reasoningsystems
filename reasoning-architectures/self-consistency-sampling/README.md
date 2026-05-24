@@ -49,3 +49,7 @@ Extract Final Answers
 Compare Candidate Outputs
    ↓
 Select Most Consistent Answer
+
+---
+
+🔗 Full article: [Self-Consistency Sampling](https://reasoningsystems.org/reasoning-architectures/self-consistency-sampling/)
