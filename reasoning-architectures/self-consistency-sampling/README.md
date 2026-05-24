@@ -50,8 +50,7 @@ Compare Candidate Outputs
    ↓
 Select Most Consistent Answer
 
----
 
-# 🔗 Full Article
+
 
 🔗 Full article: [Self-Consistency Sampling](https://reasoningsystems.org/reasoning-architectures/self-consistency-sampling/)
