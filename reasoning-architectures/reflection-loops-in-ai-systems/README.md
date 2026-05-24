@@ -27,7 +27,9 @@ Traditional AI systems often operate like this:
 
 ```text
 Question → Answer
+```
 
 ---
+
 
 🔗 Full article: [Reflection Loops in AI Systems](https://reasoningsystems.org/reasoning-architectures/reflection-loops-in-ai-systems/)
